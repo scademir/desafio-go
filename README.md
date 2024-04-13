@@ -1,0 +1,1 @@
+Este é o código desenvolvido para o primeiro desafio do módulo Docker do curso Full Cycle. O objetivo é criar uma imagem que rode um executável que exiba a mensagem Full Stack Rocks!! desenvolvido em GoLang. A imagem deve ter no máximo 2Mb e deve estar disponível no dockerhub.
